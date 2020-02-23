@@ -1,0 +1,27 @@
+{
+  "EpitopePrediction.seqNormal1": "",
+  "EpitopePrediction.seqNormal2": "",
+  "EpitopePrediction.seqTumor1": "",
+  "EpitopePrediction.seqTumor2": "",
+  "EpitopePrediction.seqRNA1": "",
+  "EpitopePrediction.seqRNA2": "",
+
+  "EpitopePrediction.seqAdapters": "",
+  "EpitopePrediction.cropLength": 0,
+
+  "EpitopePrediction.refGenomeFolder": "",
+  "EpitopePrediction.refGenomeName": "",
+  "EpitopePrediction.refGenomeBWAFolder": "",
+  "EpitopePrediction.refGenomeBWAPrefix": "",
+
+  "EpitopePrediction.knownSitesFolder": "",
+  "EpitopePrediction.refSNP": "",
+  "EpitopePrediction.refGoldIndels": "",
+  "EpitopePrediction.refKnownIndels": "",
+  "EpitopePrediction.cdnaIndex": "",
+  "EpitopePrediction.gtf": "",
+  "EpitopePrediction.proteins":  "",
+
+  "EpitopePrediction.STARGenomeDir": "",
+  "EpitopePrediction.vepCacheDir": ""
+}
